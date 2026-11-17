@@ -1,9 +1,10 @@
 # UNOFFICIAL crDroid Builds for Fairphone FP4  
 Please refer to branch for Android version (<ins>A</ins>ndroid<ins>16</ins>, <ins>A</ins>ndroid<ins>17</ins>, ...)
-<!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes-->
-<!-- May or may not be borrowed from crDroid -->
+<!--- This is a forum post template for maintainers to use on XDA, or whatever forum you post your build(s) on.
+You can copy/paste what is here and edit as necessary for your purposes
+May or may not be borrowed from crDroid -->
 
-![alt text](http://i.imgur.com/BE3pE0l.png "crDroid Logo")
+![alt text](https://i.imgur.com/BE3pE0l.png "crDroid Logo")
 
 ```
 Disclaimer
@@ -18,7 +19,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 
 **Features:**  
-[https://github.com/crdroidandroid/crdroid_features/blob/17.0/README.mkdn](https://github.com/crdroidandroid/crdroid_features/blob/17.0/README.mkdn)
+[https://github.com/crdroidandroid/crdroid_features/blob/16.0/README.mkdn](https://github.com/crdroidandroid/crdroid_features/blob/16.0/README.mkdn)
 
 **Flashing Instructions:**  
 Install steps can be found on LineageOS device page [https://wiki.lineageos.org/devices/FP4/install/](https://wiki.lineageos.org/devices/FP4/install/)
