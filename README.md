@@ -1,4 +1,5 @@
-# UNOFFICIAL crDroid Builds for Fairphone FP4
+# UNOFFICIAL crDroid Builds for Fairphone FP4  
+Please refer to branch for Android version (<ins>A</ins>ndroid<ins>16</ins>, <ins>A</ins>ndroid<ins>17</ins>, ...)
 <!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes-->
 <!-- May or may not be borrowed from crDroid -->
 
@@ -24,9 +25,9 @@ Install steps can be found on LineageOS device page [https://wiki.lineageos.org/
 
 **Sources:**  
 ROM: [https://github.com/crdroidandroid](https://github.com/crdroidandroid)  
-DeviceTree: [https://github.com/LineageOS/android_device_fairphone_FP4](https://github.com/LineageOS/android_device_fairphone_FP4)  
-Kernel: [https://github.com/LineageOS/android_kernel_fairphone_sm7225](https://github.com/LineageOS/android_kernel_fairphone_sm7225)  
-Vendor: [https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4](https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4)
+DeviceTree: [https://github.com/LineageOS/android_device_fairphone_FP4/tree/lineage-23.2](https://github.com/LineageOS/android_device_fairphone_FP4/tree/lineage-23.2)  
+Kernel: [https://github.com/LineageOS/android_kernel_fairphone_sm7225/tree/lineage-23.2](https://github.com/LineageOS/android_kernel_fairphone_sm7225/tree/lineage-23.2)  
+Vendor: [https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4/tree/lineage-23.2](https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4/tree/lineage-23.2)
 
 **Download:**  
 ROM w/ changelogs: [https://github.com/VirusBurst/crDroid_FP4/releases](https://github.com/VirusBurst/crDroid_FP4/releases)
