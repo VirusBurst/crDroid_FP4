@@ -2,7 +2,7 @@ Device:		Fairphone 4 (FP4)
 Build type:	Unofficial
 Latest build:	crDroid 12.14 (2026-11-18)
 AOSP patch:	2026-11-01
-Vendor patch:	2026-08-21
+Vendor patch:	2026-09-05
 
 For further information, look at manifest-YYYYMMDD.xml file
 
