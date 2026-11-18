@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "VirusBurst",
+      "oem": "Fairphone",
+      "device": "FP4",
+      "filename": "crDroidAndroid-16.0-20261118-FP4-v12.14.zip",
+      "download": "https://github.com/VirusBurst/crDroid_FP4/releases/download/20261118-12.14/crDroidAndroid-16.0-20261118-FP4-v12.14.zip",
+      "timestamp": 1795023716,
+      "md5": "078946c4e53cc34d324ab0f87c9010ff",
+      "sha256": "3982359383d8576dd3565e56966c9fe0da8e708ab77b578668941ca7ba1d5846",
+      "size": 1448434159,
+      "version": "12.14",
+      "os_patch_level": "2026-11-01",
+      "os_sdk_level": 36,
+      "buildtype": "Unofficial",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "https://github.com/VirusBurst/android_device_fairphone_FP4/tree/lineage-23.2",
+      "common-dt": "",
+      "kernel": "https://github.com/VirusBurst/android_kernel_fairphone_sm7225/tree/lineage-23.2"
+    }
+  ]
+}

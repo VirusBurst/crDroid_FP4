@@ -1,0 +1,19 @@
+Device:		Fairphone 4 (FP4)
+Build type:	Unofficial
+Latest build:	crDroid 12.14 (2026-11-18)
+AOSP patch:	2026-11-01
+Vendor patch:	2026-08-21
+
+For further information, look at manifest-YYYYMMDD.xml file
+
+=== 2026/11/18 crDroid 12.14 ===
+
+	* general
+- Initial unofficial build
+- Common usage tested (telephony, bluetooth, nfc, wifi, VoLTE/VoWiFi, ...)
+- Added updater overlay so no need to manually download and install OTAs
+
+	* known issues
+- Pocket mode keeps the proximity sensor active while the screen is off (disabled by default, pocket_judge=0)
+- Every known issue in LineageOS and crDroid (check them first in case of issues!)
+
