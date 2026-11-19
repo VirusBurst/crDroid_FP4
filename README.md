@@ -37,6 +37,7 @@ ROM w/ changelogs: [https://github.com/VirusBurst/crDroid_FP4/releases](https://
 - Pocket mode drains battery:  
    When enabled, crDroid's PocketService keeps the proximity sensor active while the screen is off.  
    Pocket mode is disabled by default (pocket_judge=0); enabling it will noticeably increase standby drain.
+- Every known issue in LineageOS and crDroid (check them first in case of issues!)
 
 [Visit official website @ crDroid.net](https://crdroid.net)  
 [Donate to help our team pay server costs](https://crdroid.net/donate)  
