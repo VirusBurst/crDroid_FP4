@@ -31,7 +31,9 @@ Kernel: [https://github.com/LineageOS/android_kernel_fairphone_sm7225/tree/linea
 Vendor: [https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4/tree/lineage-23.2](https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4/tree/lineage-23.2)
 
 **Download:**  
-ROM w/ changelogs: [https://github.com/VirusBurst/crDroid_FP4/releases](https://github.com/VirusBurst/crDroid_FP4/releases)
+ROM w/ changelogs: [https://github.com/VirusBurst/crDroid_FP4/releases](https://github.com/VirusBurst/crDroid_FP4/releases)  
+GApps: MindTheGapps or BitGApps for more choices (choose your set, ARM64 and Android 16)  
+microG: microGPlus (from BitGApps, choose your set and flash)
 
 **Known issues:**  
 - Pocket mode drains battery:  
